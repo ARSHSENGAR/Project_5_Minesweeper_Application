@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/arshsengar/Project_5_Minesweeper_Application">
-    <img src="https://ibb.co/pR8LmX7" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/P9n6SCL/favicon.png" alt="favicon" border="0">
   </a>
 
   <h3 align="center">Minesweeper Application</h3>
@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Screen Shot](https://ibb.co/12J54xP)
+![Screen Shot](https://i.ibb.co/VBpZk8z/Project-5-Minesweeper-Application.png)
 
 This is my fourth project as an aspiring Full-Stack Developer. I recently stumbled up this relic from our golden days and without a moment's hesitation got myself engaged with restoring this gem, using my recently acquired JavaScript  skill on a Dynamic Minesweeper application.
 
