@@ -34,7 +34,7 @@
 
 ![Screen Shot](https://i.ibb.co/VBpZk8z/Project-5-Minesweeper-Application.png)
 
-This is my fourth project as an aspiring Full-Stack Developer. I recently stumbled up this relic from our golden days and without a moment's hesitation got myself engaged with restoring this gem, using my recently acquired JavaScript  skill on a Dynamic Minesweeper application.
+This is my fifth project as an aspiring Full-Stack Developer. I recently stumbled up this relic from our golden days and without a moment's hesitation got myself engaged with restoring this gem, using my recently acquired JavaScript  skill on a Dynamic Minesweeper application.
 
 ## Built With
 
